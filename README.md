@@ -11,4 +11,10 @@ Rotates user view camera angle to be aligned with nearest axis angle of global c
 * Compile.
 * Create and assign keyboard shortcut to a macro calling the executable.
 
-![](Tekla - How it is calculating view angles.png)
+![](Tekla-How-it-is-calculating-view-angles.png)
+
+# Go from this:
+![](Capture1.png)
+
+# To this in 1 click:
+![](Capture2.png)
