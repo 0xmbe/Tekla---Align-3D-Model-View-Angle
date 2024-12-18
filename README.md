@@ -14,7 +14,7 @@ Rotates user view camera angle to be aligned with nearest axis angle of global c
 ![](Tekla-How-it-is-calculating-view-angles.png)
 
 # Go from this:
-![](Capture1.png)
+![](Capture1.PNG)
 
 # To this in 1 click:
-![](Capture2.png)
+![](Capture2.PNG)
